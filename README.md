@@ -13,9 +13,9 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/jonathanrsr/ppchem/tree/new-branch |
 | 1    | Create a conda environment                  | https://github.com/jonathanrsr/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/commit/53490ecfa4af255988fedc2455752731fce471ca |
+| 1    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/pull/1 |
 | 2    | (Optional) Review a Pull Request            | https://github.com/jonathanrsr/ppchem/commit/ff415e10bfd3d91222912fdc0a33534719874b29 |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update env.yml via a Pull Request         | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones/pull/1 |
 
 **More milestones will be added throughout the course.**
 
