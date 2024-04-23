@@ -8,14 +8,14 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/jonathanrsr |
-| 1    | Github Profile Page Updated                 | https://github.com/jonathanrsr/jonathanrsr |
-| 1    | Commit and Push Change from Command Line    | https://github.com/jonathanrsr/ppchem/commit/abe4a32e8bfc4902f7ff43b9d05128a76e5b5e74 |
-| 1    | Create a New Branch                         | https://github.com/jonathanrsr/ppchem/tree/new-branch |
-| 1    | Create a conda environment                  | https://github.com/jonathanrsr/ppchem/blob/main/env.yml |
-| 1    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/pull/1 |
-| 2    | (Optional) Review a Pull Request            | https://github.com/jonathanrsr/ppchem/commit/ff415e10bfd3d91222912fdc0a33534719874b29 |
-| 4    | Update env.yml via a Pull Request         | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones/pull/1 |
+| 2    | Github Profile Page Updated                 | https://github.com/jonathanrsr/jonathanrsr |
+| 3    | Commit and Push Change from Command Line    | https://github.com/jonathanrsr/ppchem/commit/abe4a32e8bfc4902f7ff43b9d05128a76e5b5e74 |
+| 4    | Create a New Branch                         | https://github.com/jonathanrsr/ppchem/tree/new-branch |
+| 5    | Create a conda environment                  | https://github.com/jonathanrsr/ppchem/blob/main/env.yml |
+| 6    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
+| 7    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/pull/8 |
+| 9    | (Optional) Review a Pull Request            | https://github.com/jonathanrsr/ppchem/commit/ff415e10bfd3d91222912fdc0a33534719874b29 |
+| 10    | Update env.yml via a Pull Request         | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones/pull/1 |
 
 **More milestones will be added throughout the course.**
 
